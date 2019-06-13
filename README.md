@@ -115,10 +115,11 @@ Test2:
 ~1.3 million orders
 
 Test3:
-32 million orders
+~32 million orders
 
 Note:
 Test3 which contains 32 million orders took about a minute on my system to complete
+
 The code also accomodates for the change in the order of the data columns
 
 # Contact
