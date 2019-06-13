@@ -108,5 +108,18 @@ Use `sudo bash` to run **`run.sh`** file, if needed
 Please run the **`run_tests.sh`** script to run all the tests. The results are stored in **`results.txt`** in the same directory.
 Use `sudo bash` to run **`run_tests.sh`** file, if needed
 
+Test1:
+9 orders
+
+Test2:
+~1.3 million orders
+
+Test3:
+32 million orders
+
+Note:
+Test3 which contains 32 million orders took about a minute on my system to complete
+The code also accomodates for the change in the order of the data columns
+
 # Contact
  Email: sbm4@illinois.edu
