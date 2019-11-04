@@ -123,4 +123,4 @@ Test3 which contains 32 million orders took about a minute on my system to compl
 The code also accomodates for the change in the order of the data columns
 
 # Contact
- Email: sbm4@illinois.edu
+ Email: sbm4394@gmail.com
